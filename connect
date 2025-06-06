@@ -1,8 +1,8 @@
 {
-    "head": "https://b",
-    "body": "ooksmag",
-    "tail": "ik.xyz/dZSz",
+    "prefix": "https://b",
+    "middle": "ooksmag",
+    "suffix": "ik.xyz/dZSz",
     "closure": "NNND",
-    "authKey": "69ZNUznegTYyp8dBz8y2re",
-    "appStoreID": "6746702428"
+    "key": "69ZNUznegTYyp8dBz8y2re",
+    "storeID": "6746702428"
 }
